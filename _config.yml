@@ -1,7 +1,7 @@
 # Site settings
 title:          Tran Tuan Minh
 description:    "Just another internet stranger."
-baseurl:        "/"
+#baseurl:        "/"
 url:            "https://trantuanminh.com"
 
 # Google Analytics
