@@ -1,17 +1,17 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/"
+url:            "https://trantuanminh.com"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Minh Tran
+  url:          https://trantuanminh.com
+  email:        trantminh1754@protonmail.com
 
 # Build settings
 markdown:       kramdown
