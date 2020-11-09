@@ -4,7 +4,7 @@ layout: post
 title: >-
   Sử dụng phần mềm XSplit Broadcaster để giả lập webcam máy tính bằng ảnh/video
   khi gọi video call, học trực tuyến
-author: minh
+author: Minh Tran
 categories:
   - Tricks
 image: assets/images/virtualcam-xsplit/9.png
