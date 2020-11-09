@@ -7,7 +7,7 @@ title: >-
 author: Minh Tran
 categories:
   - Tricks
-image: assets/images/virtualcam-xsplit/9.png
+image: /blog/assets/images/virtualcam-xsplit/9.png
 description: >-
   Hiện giờ đang là mùa dịch, người người ở nhà không dám ra ngoài. Nhưng học tập
   và làm việc không thể bị đình trệ chỉ vì dịch! Vì thế mà nhiều công ty, trường
@@ -26,7 +26,7 @@ Sau khi bạn cài đặt xong, mở phần mềm lên. Bạn sẽ được yêu
 
 Nếu có bất cứ bảng thông báo nào hiện ra trong quá trình mở ứng dụng sau khi đăng nhập, bạn cứ tắt hết để màn hình chính của ứng dụng hiện ra:
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/1.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/1.png)
 
 **Phần 2. Chọn file để hiển thị thay cho webcam (ảnh, video):**
 
@@ -34,27 +34,27 @@ Sau khi đến được màn hình chính của ứng dụng XSplit, bạn lần
 
 Bước 1: Chọn nút “Add Source” ở góc trái dưới của màn hình :
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/2.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/2.png)
 
 Bước 2: Ở cửa sổ bật lên, chọn Media file (videos, images)…:
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/3.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/3.png)
 
 Bước 3: Tìm đến file ảnh hoặc video để thay thế webcam:
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/4.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/4.png)
 
 * Nhấn “Open” sau khi chọn xong ảnh nha!
 
 Bước 4: Căn chỉnh ảnh, video sao cho file năm ở giữa khung đen và kích cỡ lớn nhất có thể:
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/5.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/5.png)
 
 Bước 5 (Có thể bỏ qua nếu ở bước trên bạn chọn file ảnh): Chỉnh cho video lặp lại từ đầu sau khi chạy đến cuối
 
 -Bước 5.1: Chuột phải vào đường dẫn của file video ở dưới khung đen:
     
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/6.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/6.png)
 
 -Bước 5.2: Chỉnh 1 số cài đặt như sau:
 	
@@ -64,7 +64,7 @@ Bước 5 (Có thể bỏ qua nếu ở bước trên bạn chọn file ảnh): 
 	
    -Ấn nút “Once” và chọn “Forever” để video lặp lại sau khi chạy đến hết
         
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/7.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/7.png)
 
 Bước 6: Chuyển nguồn webcam thành XSplitBroadcaster:
 
@@ -72,17 +72,17 @@ Bước 6: Chuyển nguồn webcam thành XSplitBroadcaster:
 
 -Bước 6.1: Vào phần cài đặt (Settings, thường có biểu tượng hình bánh răng) của phần mềm video call:
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/8.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/8.png)
 
 -Bước 6.2: Bạn vào phần cài đặt video của phần mềm, và chỉnh nguồn camera sang XSplitBroadcaster, và bạn sẽ thấy hình ảnh đầu ra là hình ảnh bạn chọn thay vì webcam! Nếu bạn không thấy tuỳ chọn này, hãy thử khởi động lại máy tính và phần mềm XSplit.
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/9.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/9.png)
 
 Lưu ý: 1 số phần mềm gọi video call sẽ có 1 chức năng là “Mirror video”, tức là nó sẽ lật ngược hình ảnh lại. Bạn có thể tắt đi hoặc bật lên tuỳ nhu cầu.
 
 Bược phụ: Xoá ảnh, video đã thêm để thay ảnh hoặc video khác:
 
-![]({{site.baseurl}}/assets/images/virtualcam-xsplit/10.png)
+![]({{site.baseurl}}/blog/assets/images/virtualcam-xsplit/10.png)
 
 Bạn chọn vào nguồn ảnh hoặc video ở dưới khung đen và nhấn vào nút “Remove”
 
